@@ -1,1 +1,1 @@
-# aml_cource
+# aml_course
